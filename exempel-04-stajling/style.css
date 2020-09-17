@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  font-family: "Roboto Slab", serif;
+  padding: 8px;
+  background-color: black;
+  color: white;
+}
+
+h1,
+h2 {
+  line-height: 22px;
+  font-family: "Roboto Slab", serif;
+}
+
+nav li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 32px;
+}
+
+a {
+  font-family: "Roboto Slab", serif;
+  text-decoration: none;
+  color: white;
+}
+
+article {
+  margin: 16px;
+  font-family: "Roboto Slab", serif;
+}
+
+td {
+  vertical-align: top;
+}
+
+ol li {
+  line-height: 2;
+}
+
+footer {
+  font-family: "Roboto Slab", serif;
+  padding: 8px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
