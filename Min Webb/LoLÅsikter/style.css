@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightblue;
+}
+header {
+  background-color: lightblue;
+}
+nav li {
+  list-style: none;
+  display: flex;
+  padding: 50px;
+  font-size: 50px;
+}
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+nav a {
+  text-decoration: none;
+}
+nav {
+  margin: 0px;
+}
+
+article {
+  border: solid;
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+}
+p {
+  font-size: 30px;
+  font-family: "Playball", cursive;
+}
+h1 {
+  font-size: 60px;
+  font-family: "Playball", cursive;
+}
+h2 {
+  font-family: "Playball", cursive;
+}
+.intro {
+  display: flex;
+  background-color: white;
+  justify-content: space-between;
+  flex-direction: row;
+  font-size: 60px;
+  border: solid;
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+}
+.hatadechamps {
+  display: flex;
+  background-color: white;
+  justify-content: space-between;
+  flex-direction: row;
+  font-size: 60px;
+  border: solid;
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+}
